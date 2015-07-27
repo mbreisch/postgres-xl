@@ -735,7 +735,7 @@ from applications, which is known as "master" server in general. In Postgres-XC,
     <productname>Postgres-XL</productname>
     can be used, modified, and distributed by anyone free of charge
     for any purpose, be it private, commercial, or academic, provided it
-    adheres to the Mozilla Public License version 2.
+    adheres to the PostgreSQL License.
    </para>
 
   </sect2>
